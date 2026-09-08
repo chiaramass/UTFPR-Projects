@@ -12,3 +12,7 @@ Language: Pyhton
 Libraries: Pandas, Numpy, Scikit-Learn
 
 Tools: StandarScaler, MinMaxScaler
+- **Language:** Python
+- **Machine Learning:** Scikit-Learn
+- **Data Manipulation:** NumPy
+- **Data Visualization:** Matplotlib
